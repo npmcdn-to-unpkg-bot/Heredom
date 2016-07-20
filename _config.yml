@@ -1,0 +1,15 @@
+####menu
+####菜单栏
+menu:
+  Home: /
+  Archives: /archives
+  About: /about
+
+####widgets
+####插件
+widgets:
+- search
+- category
+- tagcloud
+- weibo
+- links
