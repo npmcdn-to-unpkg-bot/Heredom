@@ -1,6 +1,10 @@
+
 <main class="content" role="main">
-    <% page.posts.each(function(post){
-    
-    
-    })
+    <div id="app">
+        {{ message }}
+    </div>
 </main>
+
+<script>
+    console.log(<%- config.disqus_shortname %>);
+</script>
